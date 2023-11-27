@@ -19,11 +19,16 @@ after slicing your values get circulate
 ### Step 6:
 we can change the values to be circulate from an element to element
 ## Program:
+```
+#name:NITHISH KUMAR S
+#reference no:23013506
 def circulate():
     list1=eval(input())
     n=int(input())
     result=list1[n:]+list1[:n]
     print("After circulating the values are:",result)
+```
+
 ## Output:
 
 ![Screenshot 2023-11-26 211103](https://github.com/nithish467/Circulate-the-values-of-N-variables/assets/150232274/0a79ba14-622e-43ea-b1e0-f41b8cfe077e)
