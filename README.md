@@ -35,4 +35,4 @@ def circulate():
 
 
 ## Result:
-does the program runs successfully
+thus the program runs successfully
